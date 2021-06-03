@@ -1,1 +1,4 @@
 w-venv/
+.ipynb_checkpoints/
+output/
+data/
